@@ -5,7 +5,7 @@ Hi there! Thank you for visiting this repository
 # Mega-to-Google-Drive
 This repository provides a Colab-friendly Python script to transfer files from MEGA to Google Drive.
 
-[Open in Colab](https://colab.research.google.com/github/sk-labs/Mega-to-Google-Drive/blob/master/Transfer_files_from_Mega_to_Google_Drive.py)
+[Open in Colab](https://colab.research.google.com/https://github.com/sk-labs/Mega-Google-Drive-sync/blob/master/Transfer_files_from_Mega_to_Google_Drive.py)
 
 ## Quick start
 1. Click the "Open in Colab" link above.  
